@@ -20,8 +20,14 @@ public class Fibonacci {
             n1 = n2;
             n2 = n3;
             sum = sum + n3; 
+        
+        
+        
         }
         sum = sum+2;
         System.out.println("\nJumlah : " + sum);
+        
+        
+        
     }
 
